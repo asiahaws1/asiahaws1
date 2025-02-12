@@ -1,7 +1,7 @@
 # Hi, I'm Asia Haws! I'm a Software Developer! 🌸
 
 ## About Me
-- I'm currently a senior at Utah Valley University learning design and programming skills.
+- I'm currently a senior at Utah Valley University learning design and programming skills. My concentration is Web and App Development.
 - I am very passionate about coding and UX design.
 - I love working on new projects and troubleshooting! ⚙️
 
