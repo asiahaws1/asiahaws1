@@ -1,15 +1,14 @@
 # Hi, I'm Asia Haws! I'm a Software Developer! 🌸
 
-## About Me
-- I just graduated from Utah Valley University with a Bachelor's degree in learning design and programming skills. My concentration is Web and App Development.
-- I have an associate's degree in Web Design. 
-- I am very passionate about coding and UI/UX.
-- I love working on new projects and troubleshooting! I am a great team player! 
+
+Welcome to my Personal GitHub Profile!
+
+
 
 ## Skills 💻
-- **Languages**: JavaScript, HTML, CSS, Python, C#, TypeScript, PSQL
-- **Frameworks/Libraries**: Svelte, Tailwind CSS, Skeleton UI, SCSS, React
-- **Tools**: Git, Figma, SvelteKit, MongoDB, Adobe Suite
+JavaScript, HTML, CSS, Python, C#, TypeScript, SQL, PostGreSQL, Flask
+Svelte, Tailwind CSS, SCSS, React
+Git, Figma, SvelteKit, MongoDB, Adobe Suite
 
 Thanks for looking at my profile! 😁
 
