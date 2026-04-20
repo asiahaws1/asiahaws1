@@ -6,8 +6,8 @@ Welcome to my Personal GitHub Profile!
 
 
 ## Skills 💻
-JavaScript, HTML, CSS, Python, C#, TypeScript, SQL, PostGreSQL, Flask
-Svelte, Tailwind CSS, SCSS, React
+JavaScript, HTML, CSS, Python, C#, TypeScript, SQL, PostGreSQL, Flask,
+Svelte, Tailwind CSS, SCSS, React,
 Git, Figma, SvelteKit, MongoDB, Adobe Suite
 
 Thanks for looking at my profile! 😁
